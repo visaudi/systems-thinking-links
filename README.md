@@ -1,2 +1,2 @@
-# systems-thinking-links
+# Systems Thinking Links
 Links about Systems Thinking
